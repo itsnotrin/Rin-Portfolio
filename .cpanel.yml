@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/elitedev/public_html/rin
+    - export DEPLOYPATH=/home/elitedev/public_html/rin3
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
     #test
