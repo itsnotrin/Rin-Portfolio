@@ -76,7 +76,7 @@ header {
 
 header ul {
 	display: inline-block;
-	background: #f7f7f7;
+	background: #008080;
 	text-align: center;
 	padding: 10px;
 	margin: 0;
@@ -97,7 +97,7 @@ header a {
 header a:hover {
 	color: #217dbb;
 	text-decoration: none;
-	background: #f7f7f7;
+	background: #008080;
 	border-radius: 4px
 }
 
